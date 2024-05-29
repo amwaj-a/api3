@@ -1,0 +1,21 @@
+div{
+    /* gap:20px; */
+    display: flex;
+    flex-direction: column;
+    max-height: 20vh;
+    /* border: solid rebeccapurple; */
+}
+img{
+    /* width: 50%; */
+/* height: 100%; */
+
+}
+section{
+    /* display: flex;
+    flex-direction: column; */
+    /* border:10px solid red; */
+    display: flex;
+    flex-direction: column;
+    /* grid-template-columns: auto auto; */
+}
+ 
